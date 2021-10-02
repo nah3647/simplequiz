@@ -1,7 +1,6 @@
 *{margin:0; padding:0}
 section{height:100vh;
-display:flex;
-flex-direction: column;
+display:block;
 justify-content:center;
 background-color: cadetblue;
 align-items:center;}
@@ -18,10 +17,9 @@ animation-direction:alternate;}
 .workp{width: 350px;
 height:250px;
 background-color: rgb(231, 231, 31);
-display:flex;
+display:block;
 justify-content: center;
-align-items: center;
-flex-direction: column;}
+align-items: center;}
 .insertbox{display:flex;
 justify-content: center
 ;
