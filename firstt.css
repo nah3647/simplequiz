@@ -1,8 +1,10 @@
 *{margin:0; padding:0}
 
-section{background-image: url('OIP21.png');
-    background-size:100% 100%;
-display:repeat;
+section{background-color:rgb(14, 238, 126);
+ height:100vh;
+width:100vw;
+
+display:inline-block;
 flex-direction: column;
 text-align: center;
 justify-content:center;
