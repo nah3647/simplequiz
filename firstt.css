@@ -1,12 +1,10 @@
 *{margin:0; padding:0}
-
-section{background-color:rgb(14, 238, 126);
- height:100vh;
-width:100%;
+body{background-color:rgb(14, 238, 126);
+background-size:100% 100%;}
+section{
 
 display:inline-block;
 flex-direction: column;
-text-align: center;
 justify-content:center;
 align-items:center;
 }
